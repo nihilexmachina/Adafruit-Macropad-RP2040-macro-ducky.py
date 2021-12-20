@@ -16,5 +16,5 @@ If you wish to change the wallpaper just substitute the current URL with somethi
 Please, refer to the LICENSE contained in this repository for further information.
   
 ### To Do
-Integrate with the Adafruit CircuitPython Ducky library
+Integrate with the Adafruit CircuitPython Ducky library.  
 Perhaps use more vars to simplify and modularize the declaration of the keypresses.
